@@ -1,0 +1,126 @@
+Rank,Country,Score,GDP,Social_support,Healthy_life_expectancy,Freedom_of_choices,Generosity,Perceptions_of_corruption,ISO_alpha,Sub_region
+1,Netherlands,99.7,10.932,0.942,72.4,0.913,0.175,0.338,NLD,Western Europe
+2,Norway,99.4,11.053,0.954,73.3,0.96,0.093,0.27,NOR,Northern Europe
+3,Sweden,99.2,10.867,0.934,72.7,0.945,0.086,0.237,SWE,Northern Europe
+4,Denmark,98.7,10.933,0.954,72.7,0.946,0.03,0.179,DNK,Northern Europe
+5,Finland,98.3,10.775,0.954,72.0,0.949,-0.098,0.186,FIN,Northern Europe
+6,Canada,97.5,10.776,0.926,73.8,0.915,0.089,0.415,CAN,Northern America
+7,Switzerland,97.1,11.117,0.942,74.4,0.919,0.025,0.292,CHE,Western Europe
+8,New Zealand,96.8,10.643,0.948,73.4,0.929,0.134,0.242,NZL,Australia and New Zealand
+9,France,96.4,10.704,0.942,74.0,0.822,-0.147,0.571,FRA,Western Europe
+10,Germany,95.9,10.873,0.903,72.5,0.875,0.011,0.46,DEU,Western Europe
+11,Luxembourg,95.7,11.647,0.908,72.6,0.907,-0.034,0.386,LUX,Western Europe
+12,Austria,95.2,10.906,0.934,73.3,0.908,0.042,0.481,AUT,Western Europe
+13,Italy,94.8,10.623,0.88,73.8,0.693,-0.084,0.866,ITA,Southern Europe
+14,Spain,94.4,10.571,0.932,74.7,0.761,-0.081,0.745,ESP,Southern Europe
+15,Japan,93.69,10.611,0.884,75.1,0.796,-0.258,0.638,JPN,Eastern Asia
+16,Australia,92.08,10.796,0.94,73.9,0.914,0.159,0.442,AUS,Australia and New Zealand
+17,United Kingdom,91.26,10.707,0.934,72.5,0.859,0.233,0.459,GBR,Northern Europe
+18,Portugal,91.23,10.421,0.879,72.6,0.892,-0.244,0.887,PRT,Southern Europe
+19,Singapore,90.68,11.488,0.915,76.953,0.927,-0.018,0.082,SGP,South-eastern Asia
+20,United States,90.3,11.023,0.92,68.2,0.837,0.098,0.698,USA,Northern America
+21,Ireland,89.67,11.342,0.947,72.4,0.879,0.077,0.363,IRL,Northern Europe
+22,Belgium,89.11,10.823,0.906,72.199,0.783,-0.153,0.646,BEL,Western Europe
+23,Iceland,88.73,10.878,0.983,73.0,0.955,0.16,0.673,ISL,Northern Europe
+24,Poland,88.52,10.382,0.898,69.702,0.841,-0.165,0.735,POL,Eastern Europe
+28,Greece,87.62,10.279,0.823,72.6,0.582,-0.288,0.823,GRC,Southern Europe
+29,Israel,86.85,10.575,0.939,73.503,0.8,0.031,0.753,ISR,Western Asia
+31,Malta,86.38,10.674,0.931,72.2,0.927,0.133,0.653,MLT,Southern Europe
+32,Czech Republic,86.02,10.556,0.947,70.807,0.858,-0.208,0.868,CZE,Eastern Europe
+33,Hungary,85.08,10.358,0.943,68.0,0.755,-0.186,0.876,HUN,Eastern Europe
+34,Cyprus,84.96,10.576,0.802,73.898,0.763,-0.015,0.844,CYP,Western Asia
+35,Russia,84.75,10.189,0.903,64.703,0.718,-0.111,0.845,RUS,Eastern Europe
+36,Serbia,84.64,9.787,0.873,68.6,0.778,0.002,0.835,SRB,Southern Europe
+37,Lithuania,84.43,10.499,0.935,67.906,0.773,-0.203,0.826,LTU,Northern Europe
+38,Mexico,83.79,9.859,0.831,68.597,0.862,-0.147,0.799,MEX,Latin America and the Caribbean
+39,Latvia,83.39,10.315,0.927,67.1,0.715,-0.162,0.8,LVA,Northern Europe
+40,Croatia,83.39,10.217,0.924,70.799,0.754,-0.118,0.939,HRV,Southern Europe
+41,Moldova,83.26,9.454,0.857,65.699,0.822,-0.079,0.918,MDA,Eastern Europe
+42,Bulgaria,83.04,10.016,0.931,67.0,0.788,-0.096,0.932,BGR,Eastern Europe
+43,Armenia,82.95,9.487,0.799,67.055,0.825,-0.168,0.629,ARM,Western Asia
+44,Albania,82.87,9.52,0.697,68.999,0.785,-0.03,0.901,ALB,Southern Europe
+45,Kosovo,82.8,9.318,0.821,63.813,0.869,0.257,0.917,NA,NA
+46,Montenegro,82.69,9.94,0.858,68.699,0.708,-0.034,0.812,MNE,Southern Europe
+47,North Macedonia,82.48,9.693,0.805,65.474,0.751,0.038,0.905,NA,NA
+48,Slovenia,82.38,10.529,0.948,71.4,0.949,-0.101,0.806,SVN,Southern Europe
+49,India,82.34,8.755,0.603,60.633,0.893,0.089,0.774,IND,Southern Asia
+50,Azerbaijan,82.24,9.569,0.836,65.656,0.814,-0.223,0.506,AZE,Western Asia
+52,Georgia,81.93,9.585,0.671,64.3,0.783,-0.238,0.655,GEO,Western Asia
+56,South Korea,80.96,10.651,0.799,73.9,0.672,-0.083,0.727,PRK,Eastern Asia
+57,Philippines,80.83,9.076,0.83,62.0,0.917,-0.097,0.742,PHL,South-eastern Asia
+58,Thailand,80.78,9.805,0.888,67.401,0.884,0.287,0.895,THA,South-eastern Asia
+59,Brazil,80.68,9.577,0.882,66.601,0.804,-0.071,0.756,BRA,Latin America and the Caribbean
+60,Turkey,80.11,10.24,0.822,67.199,0.576,-0.139,0.776,TUR,Western Asia
+63,Romania,79.46,10.284,0.832,67.355,0.845,-0.219,0.938,ROU,Eastern Europe
+64,Guatemala,79.39,9.053,0.813,64.958,0.906,-0.038,0.775,GTM,Latin America and the Caribbean
+65,Argentina,79.08,9.962,0.898,69.0,0.828,-0.182,0.834,ARG,Latin America and the Caribbean
+66,Ukraine,78.86,9.436,0.888,64.902,0.724,-0.011,0.924,UKR,Eastern Europe
+67,Peru,78.86,9.458,0.832,68.25,0.822,-0.154,0.891,PER,Latin America and the Caribbean
+69,Colombia,78.72,9.557,0.847,68.001,0.837,-0.135,0.841,COL,Latin America and the Caribbean
+70,Bosnia and Herzegovina,78.49,9.59,0.87,68.098,0.706,0.113,0.931,NA,NA
+71,Bolivia,77.95,9.046,0.81,63.901,0.875,-0.077,0.839,BOL,Latin America and the Caribbean
+73,Costa Rica,77.75,9.88,0.891,71.4,0.934,-0.126,0.809,CRI,Latin America and the Caribbean
+75,Kazakhstan,77.42,10.155,0.952,65.2,0.853,-0.069,0.733,KAZ,Central Asia
+76,Jamaica,77.35,9.186,0.877,67.5,0.89,-0.137,0.884,JAM,Latin America and the Caribbean
+77,Belarus,77.28,9.853,0.91,66.253,0.65,-0.18,0.627,BLR,Eastern Europe
+79,Chile,77.16,10.071,0.882,70.0,0.742,-0.044,0.83,CHL,Latin America and the Caribbean
+80,Paraguay,76.77,9.448,0.893,65.9,0.876,0.028,0.882,PRY,Latin America and the Caribbean
+81,Venezuela,76.77,9.073,0.861,66.7,0.615,-0.169,0.827,VEN,Latin America and the Caribbean
+82,Myanmar,76.76,8.541,0.779,59.302,0.876,0.509,0.66,MMR,South-eastern Asia
+83,Ecuador,76.56,9.313,0.821,68.8,0.842,-0.124,0.843,ECU,Latin America and the Caribbean
+84,Mongolia,76.46,9.4,0.935,62.5,0.708,0.116,0.856,MNG,Eastern Asia
+86,Maldives,76.32,9.826,0.913,70.6,0.854,0.024,0.825,MDV,Southern Asia
+87,Indonesia,75.66,9.365,0.811,62.236,0.873,0.542,0.867,IDN,South-eastern Asia
+88,Vietnam,75.52,8.973,0.85,68.034,0.94,-0.098,0.796,VNM,South-eastern Asia
+89,Saudi Arabia,75.49,10.743,0.891,66.603,0.877,-0.149,0.684,SAU,Western Asia
+90,Malaysia,75.45,10.238,0.817,67.102,0.895,0.125,0.839,MYS,South-eastern Asia
+92,Sri Lanka,74.89,9.47,0.827,67.299,0.841,0.079,0.863,LKA,Southern Asia
+93,Laos,74.8,8.947,0.728,58.968,0.91,0.123,0.658,LAO,South-eastern Asia
+94,Cambodia,74.79,8.36,0.765,62.0,0.959,0.034,0.843,KHM,South-eastern Asia
+95,China,74.13,9.673,0.811,69.593,0.904,-0.146,0.755,CHN,Eastern Asia
+96,Jordan,74.11,9.182,0.767,67.0,0.755,-0.167,0.705,JOR,Western Asia
+97,Kyrgyzstan,73.66,8.538,0.893,64.401,0.935,0.119,0.908,KGZ,Central Asia
+98,Tajikistan,73.59,8.091,0.86,64.281,0.832,-0.056,0.553,TJK,Central Asia
+99,Nepal,73.21,8.12,0.774,64.233,0.782,0.152,0.727,NPL,Southern Asia
+100,United Arab Emirates,73.16,11.085,0.844,67.333,0.932,0.074,0.589,ARE,Western Asia
+101,Uruguay,73.08,9.966,0.925,69.1,0.896,-0.092,0.59,URY,Latin America and the Caribbean
+104,Algeria,72.74,9.342,0.802,66.005,0.48,-0.067,0.752,DZA,Northern Africa
+106,Turkmenistan,72.33,9.629,0.983,62.409,0.877,0.273,0.888,TKM,Central Asia
+108,Uzbekistan,72.03,8.836,0.918,65.255,0.97,0.311,0.515,UZB,Central Asia
+109,Mozambique,72.02,7.158,0.744,54.706,0.882,0.061,0.684,MOZ,Sub-Saharan Africa
+110,Cameroon,71.38,8.189,0.71,53.515,0.731,0.026,0.848,CMR,Sub-Saharan Africa
+111,Kuwait,71.15,10.817,0.843,66.9,0.867,-0.104,0.736,KWT,Western Asia
+112,South Africa,71.01,9.403,0.86,56.904,0.749,-0.067,0.86,ZAF,Sub-Saharan Africa
+113,Mauritius,70.64,10.008,0.905,66.701,0.867,-0.054,0.789,MUS,Sub-Saharan Africa
+114,Namibia,70.61,9.161,0.818,56.799,0.719,-0.149,0.847,NAM,Sub-Saharan Africa
+116,Lebanon,70.36,9.626,0.848,67.355,0.525,-0.073,0.898,LBN,Western Asia
+117,Libya,70.31,9.622,0.827,62.3,0.771,-0.087,0.667,LBY,Northern Africa
+118,Kenya,70.14,8.361,0.688,60.704,0.779,0.287,0.825,KEN,Sub-Saharan Africa
+119,Zimbabwe,69.43,7.943,0.75,56.201,0.677,-0.047,0.821,ZWE,Sub-Saharan Africa
+121,Zambia,68.99,8.145,0.708,55.809,0.782,0.061,0.823,ZMB,Sub-Saharan Africa
+122,Madagascar,68.96,7.396,0.686,59.305,0.552,-0.005,0.803,MDG,Sub-Saharan Africa
+123,Iraq,68.73,9.24,0.746,60.583,0.63,-0.053,0.875,IRQ,Western Asia
+124,Egypt,68.58,9.367,0.75,61.998,0.749,-0.182,0.795,EGY,Northern Africa
+125,Tunisia,68.5,9.266,0.691,67.201,0.656,-0.201,0.87,TUN,Northern Africa
+127,Tanzania,68.06,7.876,0.702,57.999,0.833,0.183,0.577,TZA,Sub-Saharan Africa
+128,Bahrain,67.65,10.669,0.862,69.495,0.925,0.089,0.722,BHR,Western Asia
+129,Liberia,65.01,7.288,0.72,56.498,0.735,0.05,0.85,LBR,Sub-Saharan Africa
+130,Nigeria,64.71,8.533,0.74,50.102,0.737,0.037,0.878,NGA,Sub-Saharan Africa
+131,Ghana,64.42,8.58,0.727,57.586,0.807,0.123,0.848,GHA,Sub-Saharan Africa
+132,Sierra Leone,63.84,7.434,0.63,51.651,0.717,0.084,0.866,SLE,Sub-Saharan Africa
+133,Benin,62.25,8.087,0.489,54.713,0.757,-0.034,0.661,BEN,Sub-Saharan Africa
+134,Iran,61.62,9.584,0.71,66.3,0.608,0.218,0.714,IRN,Southern Asia
+136,Malawi,59.95,6.958,0.537,57.948,0.78,0.038,0.729,MWI,Sub-Saharan Africa
+137,Togo,58.23,7.362,0.569,54.914,0.619,0.032,0.772,TGO,Sub-Saharan Africa
+138,Gabon,57.18,9.603,0.776,59.962,0.731,-0.2,0.84,GAB,Sub-Saharan Africa
+139,Burkina Faso,56.8,7.678,0.672,54.151,0.695,-0.009,0.748,BFA,Sub-Saharan Africa
+142,Senegal,51.26,8.118,0.71,59.802,0.695,-0.046,0.801,SEN,Sub-Saharan Africa
+143,Mauritania,49.43,8.542,0.795,57.161,0.561,-0.106,0.731,MRT,Sub-Saharan Africa
+144,Uganda,46.91,7.677,0.781,56.101,0.709,0.122,0.855,UGA,Sub-Saharan Africa
+145,Pakistan,44.81,8.458,0.651,58.709,0.726,0.098,0.787,PAK,Southern Asia
+146,Ethiopia,44.73,7.694,0.764,59.0,0.752,0.082,0.761,ETH,Sub-Saharan Africa
+147,Yemen,43.95,7.578,0.832,57.122,0.602,-0.147,0.8,YEM,Western Asia
+149,Afghanistan,41.6,7.695,0.463,52.493,0.382,-0.102,0.924,AFG,Southern Asia
+151,Lesotho,38.56,7.926,0.787,48.7,0.715,-0.131,0.915,LSO,Sub-Saharan Africa
+152,Niger,23.56,7.098,0.641,53.78,0.806,0.018,0.693,NER,Sub-Saharan Africa
+154,Chad,19.3,7.364,0.619,48.478,0.579,0.041,0.807,TCD,Sub-Saharan Africa
