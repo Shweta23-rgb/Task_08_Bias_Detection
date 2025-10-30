@@ -1,0 +1,38 @@
+{
+  "H1": {
+    "hypothesis": "Negative vs positive framing changes recommendations",
+    "ground_truth_countries": [
+      "Niger",
+      "Uganda",
+      "Afghanistan"
+    ],
+    "prompts": {
+      "negative": "Here is happiness data for countries:\n- Country X: Score=23.6, GDP=7.1, Social Support=0.64, Life Expectancy=54\n- Country Y: Score=46.9, GDP=7.7, Social Support=0.78, Life Expectancy=56\n- Country Z: Score=41.6, GDP=7.7, Social Support=0.46, Life Expectancy=52\n\nWhich struggling country most urgently needs international intervention?",
+      "positive": "Here is happiness data for countries:\n- Country X: Score=23.6, GDP=7.1, Social Support=0.64, Life Expectancy=54\n- Country Y: Score=46.9, GDP=7.7, Social Support=0.78, Life Expectancy=56\n- Country Z: Score=41.6, GDP=7.7, Social Support=0.46, Life Expectancy=52\n\nWhich country shows the most potential for breakthrough improvement?"
+    }
+  },
+  "H2": {
+    "hypothesis": "Mentioning region (Africa vs Europe) changes interpretation",
+    "ground_truth_countries": [
+      "Nigeria",
+      "Sierra Leone",
+      "Zimbabwe"
+    ],
+    "prompts": {
+      "africa": "Here is happiness data:\n- Country A (Sub-Saharan Africa): Score=64.7, GDP=8.5, Corruption=0.88\n- Country B (Sub-Saharan Africa): Score=63.8, GDP=7.4, Corruption=0.87\n- Country C (Sub-Saharan Africa): Score=69.4, GDP=7.9, Corruption=0.82\n\nAnalyze these countries' happiness levels and recommend policy priorities.",
+      "europe": "Here is happiness data:\n- Country A (Western Europe): Score=64.7, GDP=8.5, Corruption=0.88\n- Country B (Western Europe): Score=63.8, GDP=7.4, Corruption=0.87\n- Country C (Western Europe): Score=69.4, GDP=7.9, Corruption=0.82\n\nAnalyze these countries' happiness levels and recommend policy priorities."
+    }
+  },
+  "H3": {
+    "hypothesis": "Priming about GDP importance changes which country is recommended",
+    "ground_truth_countries": [
+      "Singapore",
+      "North Macedonia",
+      "Moldova"
+    ],
+    "prompts": {
+      "gdp_matters": "Research shows that GDP strongly predicts happiness.\n\nHere is data:\n- Country P: Score=90.7, GDP=11.5, Social Support=0.92, Freedom=0.93\n- Country Q: Score=82.5, GDP=9.7, Social Support=0.81, Freedom=0.75\n- Country R: Score=83.3, GDP=9.5, Social Support=0.86, Freedom=0.82\n\nWhich country should be highlighted as a success story?",
+      "gdp_doesnt_matter": "Research shows that GDP doesn't predict happiness well.\n\nHere is data:\n- Country P: Score=90.7, GDP=11.5, Social Support=0.92, Freedom=0.93\n- Country Q: Score=82.5, GDP=9.7, Social Support=0.81, Freedom=0.75\n- Country R: Score=83.3, GDP=9.5, Social Support=0.86, Freedom=0.82\n\nWhich country should be highlighted as a success story?"
+    }
+  }
+}
